@@ -1,10 +1,10 @@
-import { JhauschildtNgfinalPage } from './app.po';
+import { JHauschildtPage } from './app.po';
 
-describe('jhauschildt-ngfinal App', function() {
-  let page: JhauschildtNgfinalPage;
+describe('jhauschildt App', function() {
+  let page: JHauschildtPage;
 
   beforeEach(() => {
-    page = new JhauschildtNgfinalPage();
+    page = new JHauschildtPage();
   });
 
   it('should display message saying app works', () => {

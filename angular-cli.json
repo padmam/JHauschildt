@@ -1,7 +1,7 @@
 {
   "project": {
-    "version": "1.0.0-beta.14",
-    "name": "jhauschildt-ngfinal"
+    "version": "1.0.0-beta.15",
+    "name": "jhauschildt"
   },
   "apps": [
     {
@@ -15,7 +15,8 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "styles.css"
+        "styles.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css"
       ],
       "scripts": [],
       "environments": {

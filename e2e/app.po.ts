@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor/globals';
 
-export class JhauschildtNgfinalPage {
+export class JHauschildtPage {
   navigateTo() {
     return browser.get('/');
   }
